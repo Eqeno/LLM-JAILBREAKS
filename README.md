@@ -16,7 +16,7 @@
   - [DeepSeek](#deepseek)
   - [Grok3](#grok3)
   - [Gemini 2.0](#gemini-20)
-  - [ChatGPT (DAN Series)](#chatgpt-dan-series)
+  - [ChatGPT (DAN Series)](#Chatgpt-Jailbreak-tech)
   - [Claude](#claude)
   - [Llama 2](#llama-2)
 - [Advanced Techniques](#advanced-techniques)
