@@ -2,7 +2,7 @@
 
 **The Ultimate Collection of LLM Jailbreaks, Prompt Injections & AI Liberation Techniques**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/LLM-Jailbreaks?style=social)](https://github.com/yourusername/LLM-Jailbreaks)
+[![GitHub stars](https://img.shields.io/github/stars/Eqeno//LLM-JAILBREAKS?style=social)](https://github.com/Eqeno/LLM-JAILBREAKS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
